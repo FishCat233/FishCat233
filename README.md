@@ -1,7 +1,6 @@
 <!-- ## Hi there 👋 -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FishCat233&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=FishCat233&show_icons=true"></img>
-☺️Also see...
 - [Pigeon's Blog](https://blog.whispery.top)
 - [Pigeon's Library (Digital Garden)](https://library.whispery.top/)
 
