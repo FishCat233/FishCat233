@@ -2,6 +2,9 @@
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FishCat233&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=FishCat233&show_icons=true"></img> -->
 <!-- - 💬[My Blog (Lack in update)](https://blog.whispery.top) -->
+
+## Hi there 👋
+
 - 🔥[My Notes (Digital Garden)](https://library.whispery.top/)
 
 ## Activity Stats
