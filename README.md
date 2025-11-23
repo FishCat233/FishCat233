@@ -3,11 +3,11 @@
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=FishCat233&show_icons=true"></img> -->
 <!-- - 💬[My Blog (Lack in update)](https://blog.whispery.top) -->
 
-## Hi there 👋
+## 👋 Hi there
 
 - 🔥[My Notes (Digital Garden)](https://library.whispery.top/)
 
-## Activity Stats
+## 📈 Activity Stats
 
 <div style="display: flex; justify-content: center; align-content: center; height: auto;">
   <img src="https://github-readme-stats.vercel.app/api?username=FishCat233&show_icons=true"
