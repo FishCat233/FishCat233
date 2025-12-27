@@ -13,9 +13,9 @@ Also see:
 ## 📈 Activity Stats
 
 <div style="display: flex; justify-content: center; align-content: center; height: auto;">
-  <img src="https://github-readme-stats.vercel.app/api?username=FishCat233&show_icons=true"
+  <img src="https://gh-stats.whispery.top/api?username=FishCat233&show_icons=true"
     style="display: block; height: 100%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FishCat233&layout=compact&hide=html,css,scss"
+  <img src="https://gh-stats.whispery.top/api/top-langs/?username=FishCat233&layout=compact&hide=html,css,scss"
     style="display: block; height: 100%;" />
 </div>
 
