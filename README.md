@@ -27,7 +27,7 @@ Also see:
 
 [![FishCat233's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FishCat233&theme=github-compact)](https://github.com/FishCat233/github-readme-activity-graph)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FishCat233&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-activity-graph-eight-iota.whispery.top/api/top-langs/?username=FishCat233&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **FishCat233/FishCat233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
