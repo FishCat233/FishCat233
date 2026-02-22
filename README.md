@@ -12,8 +12,6 @@ Also see:
 
 ## 📈 Activity Stats
 
-Paid on [![wakatime](https://wakatime.com/badge/user/122119c8-ad52-4b18-8087-1458836967e0.svg)](https://wakatime.com/@122119c8-ad52-4b18-8087-1458836967e0) since DEC 6 2025.
-
 <div style="display: flex; justify-content: center; align-content: center; height: auto;">
   <img src="https://gh-stats.whispery.top/api?username=FishCat233&show_icons=true"
     style="display: block; height: 100%;" />
@@ -28,6 +26,14 @@ Paid on [![wakatime](https://wakatime.com/badge/user/122119c8-ad52-4b18-8087-145
 | 最爱的工具    | <img src="https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git"/> <img src="https://img.shields.io/badge/-LaTeX-lightgray?style=flat-square&logo=latex"/> <img src="https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown"/> <img src="https://img.shields.io/badge/-VS%20Code-lightblue?style=flat-square&logo=vscode" /> <img src="https://img.shields.io/badge/-Vim-purple?style=flat-square&logo=vim"/> | <img src="https://img.shields.io/badge/-Docker-darkblue?style=flat-square&logo=docker"/> <img src="https://img.shields.io/badge/-Pycharm-cyan?style=flat-square&logo=pycharm"/> <img src="https://img.shields.io/badge/-Pnpm-chocolate?style=flat-square&logo=pnpm"/> <img src="https://img.shields.io/badge/-Obsidian-purple?style=flat-square&logo=obsidian"/>                                                                                                                                                                                                                                                                                            | <img src="https://img.shields.io/badge/-CMake-gray?style=flat-square&logo=cmake"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | <img src="https://img.shields.io/badge/-Wolfram%20Mathematica-orange?style=flat-square&logo=wolframmathematica"/> <img src="https://img.shields.io/badge/-1panel-blue?style=flat-square&logo=1panel"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 [![FishCat233's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FishCat233&theme=github-compact)](https://github.com/FishCat233/github-readme-activity-graph)
+
+<div align="right">
+  <a href="https://wakatime.com/@122119c8-ad52-4b18-8087-1458836967e0"><img src="https://wakatime.com/badge/user/122119c8-ad52-4b18-8087-1458836967e0.svg" alt="Total time coded since Dec 6 2025" /></a>
+<br/>
+  <sub>
+    Tracking with WakaTime since Dec 6, 2025
+  </sub>
+</div>
 
 <!-- [![Top Langs](https://github-readme-activity-graph-eight-iota.whispery.top/api/top-langs/?username=FishCat233&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats) -->
 
