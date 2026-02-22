@@ -12,6 +12,8 @@ Also see:
 
 ## 📈 Activity Stats
 
+Paid on [![wakatime](https://wakatime.com/badge/user/122119c8-ad52-4b18-8087-1458836967e0.svg)](https://wakatime.com/@122119c8-ad52-4b18-8087-1458836967e0) since DEC 6 2025.
+
 <div style="display: flex; justify-content: center; align-content: center; height: auto;">
   <img src="https://gh-stats.whispery.top/api?username=FishCat233&show_icons=true"
     style="display: block; height: 100%;" />
