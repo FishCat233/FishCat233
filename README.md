@@ -7,6 +7,10 @@
 
 **I am a cross-disciplinary learner who enjoys creating new concepts and exploring, understanding, and experiencing knowledge across different domains.**
 
+Now focusing on:
+- 🎮 Game Developing
+- 🤖 Deep Learning && AI Application
+
 Also see:
 - 🔥[My Notes (Digital Garden)](https://library.whispery.top/)
 
