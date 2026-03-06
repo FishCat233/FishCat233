@@ -12,7 +12,7 @@ Now focusing on:
 - 🤖 Deep Learning && AI Application
 
 Also see:
-- 🔥[My Notes (Digital Garden)](https://library.whispery.top/)
+- 🔥[My Notes (Digital Garden)](https://fishcat233.github.io/FishCat233Library/)
 
 ## 📈 Activity Stats
 
