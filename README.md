@@ -31,12 +31,18 @@ Also see:
 
 [![FishCat233's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FishCat233&theme=github-compact)](https://github.com/FishCat233/github-readme-activity-graph)
 
-<div align="right">
-  <a href="https://wakatime.com/@122119c8-ad52-4b18-8087-1458836967e0"><img src="https://wakatime.com/badge/user/122119c8-ad52-4b18-8087-1458836967e0.svg" alt="Total time coded since Dec 6 2025" /></a>
-<br/>
+<div align="center">
+  <b>Diving into code with hours:</b>
+  <br/>
+  <br/>
+  <a href="https://wakatime.com/@122119c8-ad52-4b18-8087-1458836967e0">
+    <img src="https://moe-wakatimer.white-pigeon.workers.dev/?time_type=hour" alt="Total coding hours" />
+  </a>
+  <br/>
   <sub>
-    Tracking with WakaTime since Dec 6, 2025
+    Tracking with <b>WakaTime</b> since Dec 6, 2025
   </sub>
+  <br/>
 </div>
 
 <!-- [![Top Langs](https://github-readme-activity-graph-eight-iota.whispery.top/api/top-langs/?username=FishCat233&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats) -->
