@@ -12,8 +12,8 @@ Now focusing on:
 - 🤖 Deep Learning && AI Application
 
 Also see:
-- 💬[My Blog (Lack in update)](https://www.aaafishcat.top)
-- 🔥[My Notes (Digital Garden)](https://lib.aaafishcat.top)
+- 💬[我的博客 / My Blog](https://www.aaafishcat.top)
+- 🔥[我的图书馆 / My Digital Garden](https://lib.aaafishcat.top)
 
 <details>
 <summary>Click here for detailed info!</summary>
