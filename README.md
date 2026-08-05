@@ -31,7 +31,7 @@ Also see:
 
 ![activity image](./profile-3d-contrib/profile-season-animate.svg)
 
-[![FishCat233's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FishCat233&theme=github-compact)](https://github.com/FishCat233/github-readme-activity-graph)
+[![FishCat233's github activity graph](https://github-readme-activity-graph-eight-iota.vercel.app/graph?username=FishCat233&theme=github-compact)](https://github.com/FishCat233/github-readme-activity-graph)
 
 <div align="center">
   <b>Diving into code with hours:</b>
