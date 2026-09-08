@@ -15,17 +15,95 @@ Also see:
 - 💬[我的博客 / My Blog](https://www.aaafishcat.top)
 - 🔥[我的图书馆 / My Digital Garden](https://lib.aaafishcat.top)
 
-<details>
+## 🍰 Stack Taste
+Sort by preference in ascending order.
+<div style="text-align: left;">
+  <div>
+    <strong>Programming Languages</strong><br />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+        <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+        <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  </div>
+  <div>
+    <strong>Web Technologies</strong><br />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+        <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
+        <img src="https://img.shields.io/badge/UnoCSS-333333?style=for-the-badge&logo=unocss&logoColor=white" alt="UnoCSS" />
+        <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
+  </div>
+  <div>
+    <strong>Game Development</strong><br />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot" />
+        <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+        <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
+        <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
+        <img src="https://img.shields.io/badge/Cocos-55C2E1?style=for-the-badge&logo=cocos&logoColor=white" alt="Cocos" />
+  </div>
+  <div>
+    <strong>Application Frameworks</strong><br />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
+        <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=black" alt="Tauri" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  </div>
+  <div>
+    <strong>Databases</strong><br />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </div>
+  <div>
+    <strong>Editors</strong><br />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+        <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+        <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
+        <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+        <img src="https://img.shields.io/badge/Emacs-7F5AB6?style=for-the-badge&logo=gnuemacs&logoColor=white" alt="Emacs" />
+  </div>
+  <div>
+    <strong>Development &amp; Deployment</strong><br />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" alt="Pnpm" />
+        <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
+        <img src="https://img.shields.io/badge/vcpkg-5C2D91?style=for-the-badge&logo=vcpkg&logoColor=white" alt="vcpkg" />
+  </div>
+  <div>
+    <strong>Writing &amp; Knowledge</strong><br />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+        <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+        <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
+        <img src="https://img.shields.io/badge/Trilium-4C6EF5?style=for-the-badge&logo=trilium&logoColor=white" alt="Trilium" />
+  </div>
+</div>
+
+<!-- <details>
 <summary>Click here for detailed info!</summary>
 
-<strong><small>My Stack</small></strong>
-|          | 驾轻就熟<br>*Fall in love... OR Be pain?*                                                                                                                                                                                                                                                                                                                                                                                                             | 渐入佳境<br>*真是天才一样的设计...*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | 浅尝辄止<br>*嗯?*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 有所耳闻<br>*原来是...*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 编程语言     | <img src="https://img.shields.io/badge/-Python-lightblue?style=flat-square&logo=Python"/> <img src="https://img.shields.io/badge/-Go-lightblue?style=flat-square&logo=go"/>                                                                                                                                                                                                                                                                       | <img src="https://img.shields.io/badge/-GDScript-lightblue?style=flat-square&logo=godotengine"/> <img src="https://img.shields.io/badge/-C++-blueviolet?style=flat-square&logo=cplusplus"/> <img src="https://img.shields.io/badge/-C%23-darkviolet?style=flat-square&logo=dotnet"/> <img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5"/>  <img src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css"/> <img src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript"/> <img src="https://img.shields.io/badge/-Typescript-lightblue?style=flat-square&logo=typescript"/> | <img src="https://img.shields.io/badge/-C-gray?style=flat-square&logo=c"/> <img src="https://img.shields.io/badge/-Rust-orange?style=flat-square&logo=rust"/> <img src="https://img.shields.io/badge/-Lua-blue?style=flat-square&logo=lua"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | <img src="https://img.shields.io/badge/-Java-darkred?style=flat-square&logo=openjdk"/> <img src="https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=dart"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| 喜欢的框架/引擎 |                                                                                                                                                                                                                                                                                                                                                                                                                                                   | <img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | <img src="https://img.shields.io/badge/-Unity-slategray?style=flat-square&logo=Unity"/> <img src="https://img.shields.io/badge/-Godot-lightblue?style=flat-square&logo=godotengine"/> <img src="https://img.shields.io/badge/-VuePress-lightgreen?style=flat-square&logo=vue.js"/> <img src="https://img.shields.io/badge/-Vite-deepskyblue?style=flat-square&logo=vite"/> <img src="https://img.shields.io/badge/-PyTorch-orange?style=flat-square&logo=pytorch"/> <img src="https://img.shields.io/badge/-Tauri-blue?style=flat-square&logo=tauri"/> <img src="https://img.shields.io/badge/-Tailwind-blue?style=flat-square&logo=tailwindcss"/> <img src="https://img.shields.io/badge/-Mui-lightblue?style=flat-square&logo=mui"/> | <img src="https://img.shields.io/badge/-MySQL-lightblue?style=flat-square&logo=MySQL"/> <img src="https://img.shields.io/badge/-Mariadb-blue?style=flat-square&logo=mariadb"/> <img src="https://img.shields.io/badge/OpenGL-lightblue.svg?style=flat-square&logo=opengl"> <img src="https://img.shields.io/badge/-cocos-lightblue?style=flat-square&logo=cocos"> <img src="https://img.shields.io/badge/-.NET-purple?style=flat-square&logo=dotnet"/> <img src="https://img.shields.io/badge/-UnoCSS-blue?style=flat-square&logo=unocss"/> <img src="https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter"/> <img src="https://img.shields.io/badge/-Unreal%20Engine-gray?style=flat-square&logo=unrealengine"/> |
-| 最爱的工具    | <img src="https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git"/> <img src="https://img.shields.io/badge/-LaTeX-lightgray?style=flat-square&logo=latex"/> <img src="https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown"/> <img src="https://img.shields.io/badge/-VS%20Code-lightblue?style=flat-square&logo=vscode" /> <img src="https://img.shields.io/badge/-Vim-purple?style=flat-square&logo=vim"/> | <img src="https://img.shields.io/badge/-Docker-darkblue?style=flat-square&logo=docker"/> <img src="https://img.shields.io/badge/-Pycharm-cyan?style=flat-square&logo=pycharm"/> <img src="https://img.shields.io/badge/-Pnpm-chocolate?style=flat-square&logo=pnpm"/> <img src="https://img.shields.io/badge/-Obsidian-purple?style=flat-square&logo=obsidian"/>                                                                                                                                                                                                                                                                                            | <img src="https://img.shields.io/badge/-CMake-gray?style=flat-square&logo=cmake"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | <img src="https://img.shields.io/badge/-Wolfram%20Mathematica-orange?style=flat-square&logo=wolframmathematica"/> <img src="https://img.shields.io/badge/-1panel-blue?style=flat-square&logo=1panel"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-
-</details>
+</details> -->
 
 ## 📈 Activity Stats
 
@@ -50,19 +128,19 @@ Also see:
 <details>
 <summary>Click here for more stats!</summary>
 
-<div style="display: flex; justify-content: center; align-content: center; height: auto;">
+<!-- <div style="display: flex; justify-content: center; align-content: center; height: auto;">
   <img src="https://gh-stats-kappa.vercel.app/api?username=FishCat233&show_icons=true"
     style="display: block; height: 100%;" />
   <img src="https://gh-stats-kappa.vercel.app/api/top-langs/?username=FishCat233&layout=compact&hide=html,css,scss"
     style="display: block; height: 100%;" />
-</div>
-
-<!-- <div style="display: flex; justify-content: center; align-content: center; height: auto;">
-  <img src="https://github-readme-stats.vercel.app/api?username=FishCat233&show_icons=true"
-    style="display: block; height: 100%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FishCat233&layout=compact&hide=html,css,scss"
-    style="display: block; height: 100%;" />
 </div> -->
+
+<div style="display: flex; justify-content: center; align-content: center; height: auto;">
+  <img src="https://github-stats-extended.vercel.app/api?username=FishCat233&show_icons=true"
+    style="display: block; height: 100%;" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FishCat233&layout=compact&hide=html,css,scss"
+    style="display: block; height: 100%;" />
+</div>
 
 </details>
 
